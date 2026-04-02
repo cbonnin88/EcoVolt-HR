@@ -36,12 +36,12 @@ Built a Linear Regression model to determine the "Internal Pay Drivers."
 * **Insights:** Identified that Tenure and Job Level explain 85% of pay variance, while work mode (Remote vs. Office) showed a €1.5k geographic differential.
 * **Fairness Audit:** Used model residuals to flag employees whose pay fell significantly outside the predicted range for their profile.
 
-### 4. [Executive Dashboard](https://lookerstudio.google.com/reporting/922d6a87-46e6-4829-9e34-7fa58752302b)
+### 4. [Executive Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/922d6a87-46e6-4829-9e34-7fa58752302b)
 Created a "Traffic Light" reporting system for leadership.
 * **Red Zones:** High-performers with Compa-Ratios < 0.80 (Retention Risk).
 * **Green Zones:** Employees aligned with market benchmarks.
 
-### 5. Web Deployment (Streamlit)
+### 5. [Web Deployment (Streamlit)](https://www.loom.com/share/d7599be7fd634014a71d65b6987921e2)
 Deployed a **New Hire Offer Calculator** that allows recruiters to input a candidate's experience and level to receive a data-backed salary recommendation, ensuring internal equity from Day 1.
 
 ---
