@@ -60,5 +60,7 @@ Deployed a **New Hire Offer Calculator** that allows recruiters to input a candi
 ---
 
 **Author:** [Christopher Bonnin](https://www.linkedin.com/in/christopher-bonnin-a08a95197/)
+
 **Role:** Compensation & Benefits Analyst
+
 **Year:** 2026
