@@ -2,7 +2,7 @@
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Data Size](https://img.shields.io/badge/Dataset-12,000_Employees-blue)
-![Stack](https://img.shields.io/badge/Stack-SQL_|_Polars_|_Scikit--Learn_|_Streamlit-orange)
+![Stack](https://img.shields.io/badge/Stack-Google_Sheets_|_SQL_|_Polars_|_Scikit--Learn_|_Streamlit-orange)
 
 ## 📌 Project Overview
 EcoVolt Renewables is a fictional Western European leader in the Green Energy sector. As the company scaled to 12,000+ employees across 7 countries, the Compensation & Benefits (C&B) team required a data-driven approach to ensure **Internal Equity**, **Market Competitiveness**, and **Pay Transparency**.
